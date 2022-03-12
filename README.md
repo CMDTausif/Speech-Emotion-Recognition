@@ -16,3 +16,14 @@ The dataset is organised such that each of the two female actor and their emotio
 * Sad
 
 Dataset Link- https://www.kaggle.com/ejlok1/toronto-emotional-speech-set-tess
+
+## Important Libraries
+
+* Numpy
+* Pandas
+* Librosa
+* Keras
+* Matplotlib
+* Seaborn
+
+**Note** - LSTM model has been Used.
