@@ -6,7 +6,7 @@ There are a set of 200 target words were spoken in the carrier phrase "Say the w
 
 The dataset is organised such that each of the two female actor and their emotions are contain within its own folder. And within that, all 200 target words audio file can be found. The format of the audio file is a WAV format
 
-**Labels -
+**Labels-**
 * Angry
 * Disgust
 * Fear
