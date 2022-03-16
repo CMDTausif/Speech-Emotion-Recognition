@@ -26,4 +26,4 @@ Dataset Link- https://www.kaggle.com/ejlok1/toronto-emotional-speech-set-tess
 * Matplotlib
 * Seaborn
 
-**Note** - LSTM model has been Used.
+**Note** - LSTM model has been Used for model training.
